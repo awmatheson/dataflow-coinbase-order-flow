@@ -1,2 +1,2 @@
 websockets===10.3
-bytewax==0.9.0
+bytewax==0.8.0
