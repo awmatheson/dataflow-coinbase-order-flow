@@ -1,5 +1,5 @@
 # dataflow-order-book
-A dataflow that maintains an orderbook in real-time and outputs details of the spread.
+A dataflow that maintains an order book in real-time from the coinbase level2 data and outputs details of the spread.
 
 Requires Python >=3.7
 
