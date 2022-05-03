@@ -27,4 +27,4 @@ python orderbook.py
 ...
 ```
 
-github.com/bytewax/bytewax
+[bytewax repo](github.com/bytewax/bytewax)
